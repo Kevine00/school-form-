@@ -1,0 +1,67 @@
+h1{
+color: white;
+}
+ 
+
+     a{
+        
+        background-color: darkgoldenrod;
+        color: white;
+         text-decoration:none;
+         
+     }
+     .menu{
+        
+        display: inline;
+    
+margin-left:90px;
+border-right:3px solid white;
+
+     }
+
+   
+.br{
+    background-color: darkgoldenrod;
+}
+.hey{
+    margin-left:500px;
+}
+
+form{
+    background-color: white;
+    margin:0px;
+padding-left: 200px;
+padding-top: 50px;
+
+}
+body{
+    background-color: darkgoldenrod;
+}
+ul{
+    background-color: darkgoldenrod;
+    list-style-type:none;
+    color: white
+}
+.ab{
+    text-align: left;
+   float: left;
+   padding: 60px;
+}
+.cd{
+    text-align: left;
+    float:left;
+    padding: 60px;
+
+}
+.ef{
+    float: left;
+    padding: 60px;
+}
+.gh{
+    float: left;
+    padding: 60px;
+}
+.ij{
+    float: left;
+    padding: 60px;
+}
